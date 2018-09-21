@@ -10,4 +10,10 @@ function getFirstSelector(selector){
     return myTarget;
   }
   
+  function increaseRankBy(n){
+    
+    
+  }
+  
+  
   

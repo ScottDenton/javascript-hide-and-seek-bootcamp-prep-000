@@ -14,7 +14,7 @@ function getFirstSelector(selector){
   var ranks = document.getElementById('app').querySelectorAll('ul.ranked-list li')
   
   for (var i = 0; i < ranks.length; i ++){
-    ranks[i].innerHTML = parseInt(ranks[i]) + n
+    ranks[i].innerHTML = parseInt(ranks[i].innerHTML) + n
   }
   
   

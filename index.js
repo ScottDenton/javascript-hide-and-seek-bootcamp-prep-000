@@ -11,7 +11,7 @@ function getFirstSelector(selector){
   }
   
   function increaseRankBy(n){
-  document.getElementById('app').querySelector
+  document.getElementById('app').querySelectorAll('')
   
   }
   

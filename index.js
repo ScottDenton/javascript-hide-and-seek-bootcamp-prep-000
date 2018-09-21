@@ -3,4 +3,9 @@ function getFirstSelector(selector){
   return firstSelector
 }
     
+  
+  function nestedTarget(){
     
+  }
+  
+  

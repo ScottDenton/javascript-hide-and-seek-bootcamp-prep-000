@@ -20,7 +20,7 @@ function getFirstSelector(selector){
   
   function deepestChild(){
     
-    var grandNode = document.getElementById('grand-node');
+    var grandNode = document.getElementById('grand-node').querySelectorAll('div');
     
     
   }

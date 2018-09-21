@@ -11,9 +11,7 @@ function getFirstSelector(selector){
   }
   
   function increaseRankBy(n){
-    var list = document.querySelectorAll('.rankedList');
-    var list.textContent = parseInt(list.textContent) + n;
+  document.getElementById('')
+  
   }
-  
-  
   

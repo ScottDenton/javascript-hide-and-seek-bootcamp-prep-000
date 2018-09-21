@@ -22,7 +22,7 @@ function getFirstSelector(selector){
     
     var grandNode = document.getElementById('grand-node').querySelectorAll('div');
     
-    
+    return grandNode.length-1
   }
   
   

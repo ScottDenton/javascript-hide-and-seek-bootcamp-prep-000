@@ -20,6 +20,8 @@ function getFirstSelector(selector){
   
   function deepestChild(){
     
+    var grandNode = document.getElementById('grand-node');
+    
     
   }
   
